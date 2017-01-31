@@ -1,2 +1,2 @@
 # Doraman
-This is my forst project on GIT
+This is my first project on GIT
